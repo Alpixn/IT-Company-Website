@@ -168,7 +168,7 @@ const AboutPage = () => {
         </div>
       </div>
 
-      {/* Meet Our Leaders Section */}
+      {/* Meet Our Leaders Section */}vv
       <section className="py-16 sm:py-20 bg-[#ADD8E6] px-4 sm:px-6 md:px-8 lg:px-16">
         <div className="max-w-7xl mx-auto text-center">
           <div className="mb-10 sm:mb-12 md:mb-16">
